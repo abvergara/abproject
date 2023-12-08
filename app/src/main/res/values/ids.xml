@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="scheduleTimeTV" type="id">activity_schedule_edit.xml</item>
+    <item name="scheduleCellTV" type="id">calendar_cell.xml</item>
+    <item name="monthYearText" type="id">activity_main.xml</item>
+    <item name="scheduleListView" type="id">Activity_schedule_edit.xml</item>
+    <item name="calendarRecyclerView" type="id">activity_eventviewactivity</item>
+</resources>
